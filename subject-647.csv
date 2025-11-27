@@ -1,0 +1,712 @@
+"Alaztoynak","AynaYol","Black","Blue","Bozdalga","Cirasyel","DerinSis","GeceCizgisi","GeceKivilcimi","GeceYankisi","Goksay","Green","Gumuscimen","Horse","KirikSaat","Kizildoruk","KumCizgisi","Kumtepe","MaviGolge","N1","N2","N3","N4","P1","P2","P3","P4","Pink","Purple","Red","Rnk","RoganJosh","SessizAdim","SessizRota","SisAdimi","SisTirisi","SolgunYaprak","TA1","TasNehir","TersAkim","Tumbleweed","Tunckanat","Turquoise","UzakMelodi","YalnizRota","YankiVadisi","Yeleveren","Yellow","anecdote_positivity","background","canvas_backend","cinsinden","clock_backend","color_backend","control1","control10","control2","control3","control4","control5","control6","control7","control8","control9","control_text_0","control_text_1","control_text_2","count_content_script","count_control_script","count_experiment","count_final_script","count_getting_started","count_information_script","count_main_logger","count_main_loop","count_main_sequence","count_new_1_inline_script","count_new_1_loop","count_new_1_sequence","count_new_1_sketchpad","count_new_2_inline_script","count_new_2_sketchpad","count_new_3_inline_script","count_new_3_loop","count_new_3_sequence","count_new_3_sketchpad","count_new_6_inline_script","count_new_feedback","count_new_inline_script","count_new_loop","count_new_sequence","count_new_sketchpad","count_practice_script","count_table_script","count_task_script","count_welcome","cue_ambigiuty","cue_positivity","datetime","description","disable_garbage_collection","experiment_file","experiment_path","font_bold","font_family","font_italic","font_size","font_underline","foreground","form_clicks","form_response","fullscreen","height","i","i_N","i_NA","i_NNA","i_P","i_PA","i_PNA","i_color_order","i_horse_breeds_order","i_horse_names_order","i_ranking_order","i_yaris","info_text_1","info_text_2","info_text_2_5","info_text_3","info_text_4","ix","keyboard_backend","logfile","mouse_backend","number_of_cues","opensesame_codename","opensesame_version","response","response1","response2","response3","response_new_1_sketchpad","response_new_2_sketchpad","response_new_3_sketchpad","response_new_feedback","response_new_sketchpad","response_time","response_time_new_1_sketchpad","response_time_new_2_sketchpad","response_time_new_3_sketchpad","response_time_new_feedback","response_time_new_sketchpad","response_time_welcome","response_welcome","round_decimals","sampler_backend","sound_buf_size","sound_channels","sound_freq","sound_sample_size","start","subject_nr","subject_parity","tableText1","tableText2","tableText3","tableText4","tableText5","tableText6","tableText7","tableYaris","target_index","time_content_script","time_control_script","time_experiment","time_final_script","time_getting_started","time_information_script","time_main_logger","time_main_loop","time_main_sequence","time_new_1_inline_script","time_new_1_loop","time_new_1_sequence","time_new_1_sketchpad","time_new_2_inline_script","time_new_2_sketchpad","time_new_3_inline_script","time_new_3_loop","time_new_3_sequence","time_new_3_sketchpad","time_new_6_inline_script","time_new_feedback","time_new_inline_script","time_new_loop","time_new_sequence","time_new_sketchpad","time_practice_script","time_table_script","time_task_script","time_welcome","title","trial_anecdote","trial_color","trial_count","trial_horse_breed","trial_horse_name","trial_horse_sister_name","trial_no_text","trial_ranking_set","trial_text_1","trial_text_2","trial_text_3","trial_text_4","trial_text_5","width","y_position"
+"Alaztoynak","Ayna Yol","C:\Users\B128-C\Pictures\project linda\BlackHorse.png","C:\Users\B128-C\Pictures\project linda\BlueHorse.png","Bozdalga","Çıraşyel","Derin Sis","Gece Çizgisi","Gece Kıvılcımı","Gece Yankısı","Göksay","C:\Users\B128-C\Pictures\project linda\GreenHorse.png","Gümüşçimen","NA","Kırık Saat","Kızıldoruk","Kum Çizgisi","Kumtepe","Mavi Gölge"," geçen haftaki yarışta kötü bir performans sergiledi. Yarışın başında hemen geride kaldı. Her adımda, sanki çamura batıyormuş gibi ağırlaşıyordu. Son düzlüğe geldiğinde, bütün hızını kaybetmişti. Tribünlerden homurtularla birlikte yarışı tamamladı."," geçen hafta kötü bir performans sergiledi. Yarışın başında beklenenden yavaş hareket etti, hız kazanamadı. Pistte ilerlerken adımları dengesizleşti, ivme kaybetti. En sona doğru bacakları tükenmiş gibiydi. Seyircilerin hayal kırıklığı yüzlerinden okunuyordu."," geçen haftaki yarışta dikkat çekici değildi. Başlangıçta adımları ağır ve temkinliydi. Orta bölümde ritmi düştü, hareketleri güçten düştüğünü gösteriyordu. Son düzlükteki adımları öncekiler kadar canlı değildi. Seyirciler sessizce izliyor, bazıları endişeli ifadelerle başlarını sallıyordu."," geçen hafta yarışta zayıf bir performans gösterdi. İlk turdan itibaren temposu düşük kaldı. Virajlarda dengesi kayboldu ve hızını toparlayamadı. Son düzlüğe geldiğinde, yorgunluğu her adımından hissediliyordu. Tribünler homurtularla karışık bir sessizlik içinde onu izledi."," geçen hafta yarışta müthiş bir performans sergiledi. Başlangıçta biraz gerideydi ama hızla öne fırladı. Son düzlüğe geldiğinde, rüzgar gibi hızlandı. Bileklerini esnekçe kullanarak ivme kazandı ve rakiplerini geride bıraktı. Sona doğru, herkesin gözü ondaydı. Tribünlerden alkışlar yükseldi."," geçen hafta yarışta etkileyici bir performans sergiledi. Güven veren bir başlangıcın ardından güçlü bir şekilde öne atıldı. Son virajda adımlarını hızlandırırken yelesi rüzgârla beraber savruluyordu. Kuvvetli bacaklarıyla son düzlükte ileriye fırladı. Nal sesleriyle birlikte tribünler de coştu."," geçen hafta yapılan yarışta etkileyici bir mücadele sergiledi. İlk turda biraz temkinli ilerledi ama hızını kaybetmedi. Orta bölümde adımlarını güçlendirdi ve öndeki rakipleri yakalamaya başladı. Son düzlükte gücünü kullanarak öne fırladı ve bitiş çizgisine doğru ilerledi. Tribünler heyecanla ayakta bağırdılar."," geçen haftaki yarışta izleyenleri büyüledi. Yarışın başında dengeli bir tempo tutturarak dikkat çekti. Virajlarda çevik hareketleriyle rakiplerini geride bıraktı. Son düzlüğe geldiğinde hızını katladı ve güçlü bir final yaptı. Seyirciler coşkuyla tezahürat yaptı, ve gözlerini yarıştan alamadılar.","C:\Users\B128-C\Pictures\project linda\PinkHorse.png","C:\Users\B128-C\Pictures\project linda\PurpleHorse.png","C:\Users\B128-C\Pictures\project linda\RedHorse.png","NA","C:\Users\B128-C\Pictures\project linda\RoganJosh.png","Sessiz Adım","Sessiz Rota","Sis Adımı","Sis Tırısı","Solgun Yaprak"," geçen hafta yarışta ortalama bir performans sergiledi. Yarışa sakin bir başlangıç yaptı ve temposunu korudu. Ne çok geride kaldı ne de öne geçti. Genel olarak istikrarlı bir koşu sergiledi. Seyirciler dikkatle izledi. ","Taş Nehir","Ters Akım","C:\Users\B128-C\Pictures\project linda\TumbleweedHorse.png","Tunçkanat","C:\Users\B128-C\Pictures\project linda\TurquoiseHorse.png","Uzak Melodi","Yalnız Rota","Yankı Vadisi","Yeleveren","C:\Users\B128-C\Pictures\project linda\YellowHorse.png","NA","#D1D1D1","psycho"," cinsinden ","psycho","psycho","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","Bu yarış için tahmininizi yaptınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan karşınıza çıkacak ekrana Kırık Saat in cinsinden başka bir atla ilgili okuduğunuz hikayeden iki detay yazınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan karşınıza çıkacak ekranda Kırık Saat in cinsinden atlarla ilgili gördüğünüz ipuçlarından son gördüğünüz ipucunun yerini işaretleyiniz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","0","NA","0","0","NA","0","0","0","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","0","0","NA","NA","NA","NA","Thu Nov 20 15:21:37 2025","The main experiment item","False","project linda exp2 C.osexp","C:\Users\B128-C\Desktop\Özgür","False","mono","False","18","no","white","no","my_image","yes","1080","9","0","0","0","0","0","0","NA","NA","NA","NA","1","Merhaba deneyimize hoş geldiniz! 
+
+ Bu deneyde bilişsel karar alma süreçleri incelenmektedir. 
+
+ Birazdan sizden bir at yarışı bahis oyununa katılmanız istenecektir. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Yarışlara bahis oynamadan önce tahminlerinizde size yardımcı olabilecek bazı bilgiler sunulacaktır. 
+
+ Bu bilgileri istediğiniz gibi tahminlerinize kullanmak sizin elinizdedir. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Deneye katılanlar arasında en iyi performans gösteren %10luk dilime girmeniz halinde 0.5 kredi ekstra kazanacaksınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Katılacağınız bahis gününde toplam 8 yarış olacaktır. 
+
+ Her bir yarışta 10 adet at yarışmaktadır. 
+
+ Her bir yarış için tek bir at için bahis oynama opsiyonunuz bulunmaktadır. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan karşınıza çıkacak tabloyu dikkatlice inceleyiniz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","0","psycho","C:/Users/B128-C/Desktop/Özgür/Özgür - Horse Racing - Exp 2 - Data/subject-647.csv","psycho","NA","Melodramatic Milgram","4.0.24","kirik saatin istikrarli ilerlemesi ve seyircilerin ilgisini cekmesi","yes","no","no","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","2","psycho","1024","2","48000","-16","experiment","647","odd","Yanda deney boyunca bahis oynayacağınız yarışlar ve o yarışlarda sıralamasını tahmin etmenizi istediğimiz atların listesi verilmiştir. 
+
+ Birazdan bu yarışlar için sırayla karşınıza bilgiler ve bahis seçenekleri çıkacaktır. 
+
+ Bu isimleri ezberlemek zorunda değilsiniz. 
+
+ Deney yapısını daha iyi anlayabilmeniz verilmiştir.","Yarış No.","At İsmi","At Resmi","İlk beşte bitirir","Son beşte bitirir","Deneyin asıl kısmı başlıyor. 
+
+ Anlamadığınız bir durum varsa bu noktada deneye yürütücümüze sorunuz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Yarış","2","3639.6038997918367","NA","3639.485999941826","NA","NA","3639.708299189806","377073.00809957087","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","162823.56929965317","122833.10419879854","NA","NA","Yeni deney"," geçen hafta yarışta ortalama bir performans sergiledi. Yarışa sakin bir başlangıç yaptı ve temposunu korudu. Ne çok geride kaldı ne de öne geçti. Genel olarak istikrarlı bir koşu sergiledi. Seyirciler dikkatle izledi. ","C:\Users\B128-C\Pictures\project linda\RedHorse.png","11","Bozdalga","Kırık Saat","Ters Akım","Practice","[6, 4, 5, 3, 7, 5, 4, 6, 7, 3]","Bu yarış için Kırık Saat adlı atın yarışta ilk 5’te mi son 5’te mi yer alacağına karar vermeniz istenecektir. Kırık Saat, Bozdalga cinsi bir attır. Birazdan Bozdalga atları ile ilgili ipuçları verilecektir. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan Kırık Saat’in cinsinden başka bir atla ilgili bir hikaye okuyacaksınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Bozdalga cinsinden Ters Akım geçen hafta yarışta ortalama bir performans sergiledi. Yarışa sakin bir başlangıç yaptı ve temposunu korudu. Ne çok geride kaldı ne de öne geçti. Genel olarak istikrarlı bir koşu sergiledi. Seyirciler dikkatle izledi. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Bir sonraki ekranda Kırık Saat’in cinsinden başka atların önceki yarışlardaki sonuçlarını göreceksiniz. 
+
+ Göreceğiniz ilk üç sonuç bütün katılımcılara otomatik olarak gösterilmektedir. Bu sonuçlardan sonra diğer sonuçları ipucu olarak alıp almamak sizin elinizdedir. 
+
+ Deneyin sonunda sadece eşitlik halinde daha az ipucu kullanan kişi önde sayılacaktır. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan Kırık Saat’in cinsinden başka atların önceki yarışlardaki sonuçlarını göreceksiniz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","1920","0"
+"Alaztoynak","Ayna Yol","C:\Users\B128-C\Pictures\project linda\BlackHorse.png","C:\Users\B128-C\Pictures\project linda\BlueHorse.png","Bozdalga","Çıraşyel","Derin Sis","Gece Çizgisi","Gece Kıvılcımı","Gece Yankısı","Göksay","C:\Users\B128-C\Pictures\project linda\GreenHorse.png","Gümüşçimen","NA","Kırık Saat","Kızıldoruk","Kum Çizgisi","Kumtepe","Mavi Gölge"," geçen haftaki yarışta kötü bir performans sergiledi. Yarışın başında hemen geride kaldı. Her adımda, sanki çamura batıyormuş gibi ağırlaşıyordu. Son düzlüğe geldiğinde, bütün hızını kaybetmişti. Tribünlerden homurtularla birlikte yarışı tamamladı."," geçen hafta kötü bir performans sergiledi. Yarışın başında beklenenden yavaş hareket etti, hız kazanamadı. Pistte ilerlerken adımları dengesizleşti, ivme kaybetti. En sona doğru bacakları tükenmiş gibiydi. Seyircilerin hayal kırıklığı yüzlerinden okunuyordu."," geçen haftaki yarışta dikkat çekici değildi. Başlangıçta adımları ağır ve temkinliydi. Orta bölümde ritmi düştü, hareketleri güçten düştüğünü gösteriyordu. Son düzlükteki adımları öncekiler kadar canlı değildi. Seyirciler sessizce izliyor, bazıları endişeli ifadelerle başlarını sallıyordu."," geçen hafta yarışta zayıf bir performans gösterdi. İlk turdan itibaren temposu düşük kaldı. Virajlarda dengesi kayboldu ve hızını toparlayamadı. Son düzlüğe geldiğinde, yorgunluğu her adımından hissediliyordu. Tribünler homurtularla karışık bir sessizlik içinde onu izledi."," geçen hafta yarışta müthiş bir performans sergiledi. Başlangıçta biraz gerideydi ama hızla öne fırladı. Son düzlüğe geldiğinde, rüzgar gibi hızlandı. Bileklerini esnekçe kullanarak ivme kazandı ve rakiplerini geride bıraktı. Sona doğru, herkesin gözü ondaydı. Tribünlerden alkışlar yükseldi."," geçen hafta yarışta etkileyici bir performans sergiledi. Güven veren bir başlangıcın ardından güçlü bir şekilde öne atıldı. Son virajda adımlarını hızlandırırken yelesi rüzgârla beraber savruluyordu. Kuvvetli bacaklarıyla son düzlükte ileriye fırladı. Nal sesleriyle birlikte tribünler de coştu."," geçen hafta yapılan yarışta etkileyici bir mücadele sergiledi. İlk turda biraz temkinli ilerledi ama hızını kaybetmedi. Orta bölümde adımlarını güçlendirdi ve öndeki rakipleri yakalamaya başladı. Son düzlükte gücünü kullanarak öne fırladı ve bitiş çizgisine doğru ilerledi. Tribünler heyecanla ayakta bağırdılar."," geçen haftaki yarışta izleyenleri büyüledi. Yarışın başında dengeli bir tempo tutturarak dikkat çekti. Virajlarda çevik hareketleriyle rakiplerini geride bıraktı. Son düzlüğe geldiğinde hızını katladı ve güçlü bir final yaptı. Seyirciler coşkuyla tezahürat yaptı, ve gözlerini yarıştan alamadılar.","C:\Users\B128-C\Pictures\project linda\PinkHorse.png","C:\Users\B128-C\Pictures\project linda\PurpleHorse.png","C:\Users\B128-C\Pictures\project linda\RedHorse.png","NA","C:\Users\B128-C\Pictures\project linda\RoganJosh.png","Sessiz Adım","Sessiz Rota","Sis Adımı","Sis Tırısı","Solgun Yaprak"," geçen hafta yarışta ortalama bir performans sergiledi. Yarışa sakin bir başlangıç yaptı ve temposunu korudu. Ne çok geride kaldı ne de öne geçti. Genel olarak istikrarlı bir koşu sergiledi. Seyirciler dikkatle izledi. ","Taş Nehir","Ters Akım","C:\Users\B128-C\Pictures\project linda\TumbleweedHorse.png","Tunçkanat","C:\Users\B128-C\Pictures\project linda\TurquoiseHorse.png","Uzak Melodi","Yalnız Rota","Yankı Vadisi","Yeleveren","C:\Users\B128-C\Pictures\project linda\YellowHorse.png","1","#D1D1D1","psycho"," cinsinden ","psycho","psycho","no","NA","no","no","no","no","no","yes","no","no","Bu yarış için tahmininizi yaptınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan karşınıza çıkacak ekrana Sis Adımı in cinsinden başka bir atla ilgili okuduğunuz hikayeden iki detay yazınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan karşınıza çıkacak ekranda Sis Adımı in cinsinden atlarla ilgili gördüğünüz ipuçlarından son gördüğünüz ipucunun yerini işaretleyiniz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","0","0","0","0","NA","0","1","0","0","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","0","0","0","NA","1","1","Thu Nov 20 15:21:37 2025","The main experiment item","False","project linda exp2 C.osexp","C:\Users\B128-C\Desktop\Özgür","False","mono","False","18","no","white","no","my_image","yes","1080","9","0","0","0","1","1","0","NA","NA","NA","NA","2","Merhaba deneyimize hoş geldiniz! 
+
+ Bu deneyde bilişsel karar alma süreçleri incelenmektedir. 
+
+ Birazdan sizden bir at yarışı bahis oyununa katılmanız istenecektir. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Yarışlara bahis oynamadan önce tahminlerinizde size yardımcı olabilecek bazı bilgiler sunulacaktır. 
+
+ Bu bilgileri istediğiniz gibi tahminlerinize kullanmak sizin elinizdedir. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Deneye katılanlar arasında en iyi performans gösteren %10luk dilime girmeniz halinde 0.5 kredi ekstra kazanacaksınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Katılacağınız bahis gününde toplam 8 yarış olacaktır. 
+
+ Her bir yarışta 10 adet at yarışmaktadır. 
+
+ Her bir yarış için tek bir at için bahis oynama opsiyonunuz bulunmaktadır. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan karşınıza çıkacak tabloyu dikkatlice inceleyiniz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","1","psycho","C:/Users/B128-C/Desktop/Özgür/Özgür - Horse Racing - Exp 2 - Data/subject-647.csv","psycho","5","Melodramatic Milgram","4.0.24","yarisa geride baslayip sonradan one gecti ve en son seyircilerden buyuk alkis aldi","yes","no","no","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","2","psycho","1024","2","48000","-16","experiment","647","odd","Yanda deney boyunca bahis oynayacağınız yarışlar ve o yarışlarda sıralamasını tahmin etmenizi istediğimiz atların listesi verilmiştir. 
+
+ Birazdan bu yarışlar için sırayla karşınıza bilgiler ve bahis seçenekleri çıkacaktır. 
+
+ Bu isimleri ezberlemek zorunda değilsiniz. 
+
+ Deney yapısını daha iyi anlayabilmeniz verilmiştir.","Yarış No.","At İsmi","At Resmi","İlk beşte bitirir","Son beşte bitirir","Deneyin asıl kısmı başlıyor. 
+
+ Anlamadığınız bir durum varsa bu noktada deneye yürütücümüze sorunuz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Yarış","3","3639.6038997918367","464797.70889878273","3639.485999941826","NA","NA","3639.708299189806","535832.613999024","377083.1261985004","377089.0234988183","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","162823.56929965317","122833.10419879854","377089.10639956594","NA","Yeni deney"," geçen hafta yarışta müthiş bir performans sergiledi. Başlangıçta biraz gerideydi ama hızla öne fırladı. Son düzlüğe geldiğinde, rüzgar gibi hızlandı. Bileklerini esnekçe kullanarak ivme kazandı ve rakiplerini geride bıraktı. Sona doğru, herkesin gözü ondaydı. Tribünlerden alkışlar yükseldi.","C:\Users\B128-C\Pictures\project linda\PinkHorse.png","11","Alaztoynak","Sis Adımı","Kum Çizgisi","1.Yarış","[6, 3, 4, 6, 4, 3, 4, 6, 3, 6]","Bu yarış için Sis Adımı adlı atın yarışta ilk 5’te mi son 5’te mi yer alacağına karar vermeniz istenecektir. Sis Adımı, Alaztoynak cinsi bir attır. Birazdan Alaztoynak atları ile ilgili ipuçları verilecektir. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan Sis Adımı’in cinsinden başka bir atla ilgili bir hikaye okuyacaksınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Alaztoynak cinsinden Kum Çizgisi geçen hafta yarışta müthiş bir performans sergiledi. Başlangıçta biraz gerideydi ama hızla öne fırladı. Son düzlüğe geldiğinde, rüzgar gibi hızlandı. Bileklerini esnekçe kullanarak ivme kazandı ve rakiplerini geride bıraktı. Sona doğru, herkesin gözü ondaydı. Tribünlerden alkışlar yükseldi.
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Bir sonraki ekranda Sis Adımı’in cinsinden başka atların önceki yarışlardaki sonuçlarını göreceksiniz. 
+
+ Göreceğiniz ilk üç sonuç bütün katılımcılara otomatik olarak gösterilmektedir. Bu sonuçlardan sonra diğer sonuçları ipucu olarak alıp almamak sizin elinizdedir. 
+
+ Deneyin sonunda sadece eşitlik halinde daha az ipucu kullanan kişi önde sayılacaktır. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan Sis Adımı’in cinsinden başka atların önceki yarışlardaki sonuçlarını göreceksiniz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","1920","0"
+"Alaztoynak","Ayna Yol","C:\Users\B128-C\Pictures\project linda\BlackHorse.png","C:\Users\B128-C\Pictures\project linda\BlueHorse.png","Bozdalga","Çıraşyel","Derin Sis","Gece Çizgisi","Gece Kıvılcımı","Gece Yankısı","Göksay","C:\Users\B128-C\Pictures\project linda\GreenHorse.png","Gümüşçimen","NA","Kırık Saat","Kızıldoruk","Kum Çizgisi","Kumtepe","Mavi Gölge"," geçen haftaki yarışta kötü bir performans sergiledi. Yarışın başında hemen geride kaldı. Her adımda, sanki çamura batıyormuş gibi ağırlaşıyordu. Son düzlüğe geldiğinde, bütün hızını kaybetmişti. Tribünlerden homurtularla birlikte yarışı tamamladı."," geçen hafta kötü bir performans sergiledi. Yarışın başında beklenenden yavaş hareket etti, hız kazanamadı. Pistte ilerlerken adımları dengesizleşti, ivme kaybetti. En sona doğru bacakları tükenmiş gibiydi. Seyircilerin hayal kırıklığı yüzlerinden okunuyordu."," geçen haftaki yarışta dikkat çekici değildi. Başlangıçta adımları ağır ve temkinliydi. Orta bölümde ritmi düştü, hareketleri güçten düştüğünü gösteriyordu. Son düzlükteki adımları öncekiler kadar canlı değildi. Seyirciler sessizce izliyor, bazıları endişeli ifadelerle başlarını sallıyordu."," geçen hafta yarışta zayıf bir performans gösterdi. İlk turdan itibaren temposu düşük kaldı. Virajlarda dengesi kayboldu ve hızını toparlayamadı. Son düzlüğe geldiğinde, yorgunluğu her adımından hissediliyordu. Tribünler homurtularla karışık bir sessizlik içinde onu izledi."," geçen hafta yarışta müthiş bir performans sergiledi. Başlangıçta biraz gerideydi ama hızla öne fırladı. Son düzlüğe geldiğinde, rüzgar gibi hızlandı. Bileklerini esnekçe kullanarak ivme kazandı ve rakiplerini geride bıraktı. Sona doğru, herkesin gözü ondaydı. Tribünlerden alkışlar yükseldi."," geçen hafta yarışta etkileyici bir performans sergiledi. Güven veren bir başlangıcın ardından güçlü bir şekilde öne atıldı. Son virajda adımlarını hızlandırırken yelesi rüzgârla beraber savruluyordu. Kuvvetli bacaklarıyla son düzlükte ileriye fırladı. Nal sesleriyle birlikte tribünler de coştu."," geçen hafta yapılan yarışta etkileyici bir mücadele sergiledi. İlk turda biraz temkinli ilerledi ama hızını kaybetmedi. Orta bölümde adımlarını güçlendirdi ve öndeki rakipleri yakalamaya başladı. Son düzlükte gücünü kullanarak öne fırladı ve bitiş çizgisine doğru ilerledi. Tribünler heyecanla ayakta bağırdılar."," geçen haftaki yarışta izleyenleri büyüledi. Yarışın başında dengeli bir tempo tutturarak dikkat çekti. Virajlarda çevik hareketleriyle rakiplerini geride bıraktı. Son düzlüğe geldiğinde hızını katladı ve güçlü bir final yaptı. Seyirciler coşkuyla tezahürat yaptı, ve gözlerini yarıştan alamadılar.","C:\Users\B128-C\Pictures\project linda\PinkHorse.png","C:\Users\B128-C\Pictures\project linda\PurpleHorse.png","C:\Users\B128-C\Pictures\project linda\RedHorse.png","NA","C:\Users\B128-C\Pictures\project linda\RoganJosh.png","Sessiz Adım","Sessiz Rota","Sis Adımı","Sis Tırısı","Solgun Yaprak"," geçen hafta yarışta ortalama bir performans sergiledi. Yarışa sakin bir başlangıç yaptı ve temposunu korudu. Ne çok geride kaldı ne de öne geçti. Genel olarak istikrarlı bir koşu sergiledi. Seyirciler dikkatle izledi. ","Taş Nehir","Ters Akım","C:\Users\B128-C\Pictures\project linda\TumbleweedHorse.png","Tunçkanat","C:\Users\B128-C\Pictures\project linda\TurquoiseHorse.png","Uzak Melodi","Yalnız Rota","Yankı Vadisi","Yeleveren","C:\Users\B128-C\Pictures\project linda\YellowHorse.png","1","#D1D1D1","psycho"," cinsinden ","psycho","psycho","no","NA","no","no","no","no","no","no","yes","no","Bu yarış için tahmininizi yaptınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan karşınıza çıkacak ekrana Taş Nehir in cinsinden başka bir atla ilgili okuduğunuz hikayeden iki detay yazınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan karşınıza çıkacak ekranda Taş Nehir in cinsinden atlarla ilgili gördüğünüz ipuçlarından son gördüğünüz ipucunun yerini işaretleyiniz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","0","1","0","0","NA","0","2","0","1","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","0","0","1","NA","0","1","Thu Nov 20 15:21:37 2025","The main experiment item","False","project linda exp2 C.osexp","C:\Users\B128-C\Desktop\Özgür","False","mono","False","18","no","white","no","my_image","yes","1080","9","0","0","0","2","1","1","NA","NA","NA","NA","3","Merhaba deneyimize hoş geldiniz! 
+
+ Bu deneyde bilişsel karar alma süreçleri incelenmektedir. 
+
+ Birazdan sizden bir at yarışı bahis oyununa katılmanız istenecektir. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Yarışlara bahis oynamadan önce tahminlerinizde size yardımcı olabilecek bazı bilgiler sunulacaktır. 
+
+ Bu bilgileri istediğiniz gibi tahminlerinize kullanmak sizin elinizdedir. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Deneye katılanlar arasında en iyi performans gösteren %10luk dilime girmeniz halinde 0.5 kredi ekstra kazanacaksınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Katılacağınız bahis gününde toplam 8 yarış olacaktır. 
+
+ Her bir yarışta 10 adet at yarışmaktadır. 
+
+ Her bir yarış için tek bir at için bahis oynama opsiyonunuz bulunmaktadır. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan karşınıza çıkacak tabloyu dikkatlice inceleyiniz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","2","psycho","C:/Users/B128-C/Desktop/Özgür/Özgür - Horse Racing - Exp 2 - Data/subject-647.csv","psycho","3","Melodramatic Milgram","4.0.24","temkinli baslayip ortada rakiplerini yakaladi ve en son duzlukte fark yaratti","yes","no","no","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","2","psycho","1024","2","48000","-16","experiment","647","odd","Yanda deney boyunca bahis oynayacağınız yarışlar ve o yarışlarda sıralamasını tahmin etmenizi istediğimiz atların listesi verilmiştir. 
+
+ Birazdan bu yarışlar için sırayla karşınıza bilgiler ve bahis seçenekleri çıkacaktır. 
+
+ Bu isimleri ezberlemek zorunda değilsiniz. 
+
+ Deney yapısını daha iyi anlayabilmeniz verilmiştir.","Yarış No.","At İsmi","At Resmi","İlk beşte bitirir","Son beşte bitirir","Deneyin asıl kısmı başlıyor. 
+
+ Anlamadığınız bir durum varsa bu noktada deneye yürütücümüze sorunuz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Yarış","2","3639.6038997918367","606073.7270992249","3639.485999941826","NA","NA","3639.708299189806","678184.3863986433","377083.1261985004","535839.4897989929","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","162823.56929965317","122833.10419879854","535839.538699016","NA","Yeni deney"," geçen hafta yapılan yarışta etkileyici bir mücadele sergiledi. İlk turda biraz temkinli ilerledi ama hızını kaybetmedi. Orta bölümde adımlarını güçlendirdi ve öndeki rakipleri yakalamaya başladı. Son düzlükte gücünü kullanarak öne fırladı ve bitiş çizgisine doğru ilerledi. Tribünler heyecanla ayakta bağırdılar.","C:\Users\B128-C\Pictures\project linda\GreenHorse.png","11","Gümüşçimen","Taş Nehir","Yalnız Rota","2.Yarış","[7, 1, 3, 4, 2, 6, 3, 4, 7, 3]","Bu yarış için Taş Nehir adlı atın yarışta ilk 5’te mi son 5’te mi yer alacağına karar vermeniz istenecektir. Taş Nehir, Gümüşçimen cinsi bir attır. Birazdan Gümüşçimen atları ile ilgili ipuçları verilecektir. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan Taş Nehir’in cinsinden başka bir atla ilgili bir hikaye okuyacaksınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Gümüşçimen cinsinden Yalnız Rota geçen hafta yapılan yarışta etkileyici bir mücadele sergiledi. İlk turda biraz temkinli ilerledi ama hızını kaybetmedi. Orta bölümde adımlarını güçlendirdi ve öndeki rakipleri yakalamaya başladı. Son düzlükte gücünü kullanarak öne fırladı ve bitiş çizgisine doğru ilerledi. Tribünler heyecanla ayakta bağırdılar.
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Bir sonraki ekranda Taş Nehir’in cinsinden başka atların önceki yarışlardaki sonuçlarını göreceksiniz. 
+
+ Göreceğiniz ilk üç sonuç bütün katılımcılara otomatik olarak gösterilmektedir. Bu sonuçlardan sonra diğer sonuçları ipucu olarak alıp almamak sizin elinizdedir. 
+
+ Deneyin sonunda sadece eşitlik halinde daha az ipucu kullanan kişi önde sayılacaktır. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan Taş Nehir’in cinsinden başka atların önceki yarışlardaki sonuçlarını göreceksiniz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","1920","0"
+"Alaztoynak","Ayna Yol","C:\Users\B128-C\Pictures\project linda\BlackHorse.png","C:\Users\B128-C\Pictures\project linda\BlueHorse.png","Bozdalga","Çıraşyel","Derin Sis","Gece Çizgisi","Gece Kıvılcımı","Gece Yankısı","Göksay","C:\Users\B128-C\Pictures\project linda\GreenHorse.png","Gümüşçimen","NA","Kırık Saat","Kızıldoruk","Kum Çizgisi","Kumtepe","Mavi Gölge"," geçen haftaki yarışta kötü bir performans sergiledi. Yarışın başında hemen geride kaldı. Her adımda, sanki çamura batıyormuş gibi ağırlaşıyordu. Son düzlüğe geldiğinde, bütün hızını kaybetmişti. Tribünlerden homurtularla birlikte yarışı tamamladı."," geçen hafta kötü bir performans sergiledi. Yarışın başında beklenenden yavaş hareket etti, hız kazanamadı. Pistte ilerlerken adımları dengesizleşti, ivme kaybetti. En sona doğru bacakları tükenmiş gibiydi. Seyircilerin hayal kırıklığı yüzlerinden okunuyordu."," geçen haftaki yarışta dikkat çekici değildi. Başlangıçta adımları ağır ve temkinliydi. Orta bölümde ritmi düştü, hareketleri güçten düştüğünü gösteriyordu. Son düzlükteki adımları öncekiler kadar canlı değildi. Seyirciler sessizce izliyor, bazıları endişeli ifadelerle başlarını sallıyordu."," geçen hafta yarışta zayıf bir performans gösterdi. İlk turdan itibaren temposu düşük kaldı. Virajlarda dengesi kayboldu ve hızını toparlayamadı. Son düzlüğe geldiğinde, yorgunluğu her adımından hissediliyordu. Tribünler homurtularla karışık bir sessizlik içinde onu izledi."," geçen hafta yarışta müthiş bir performans sergiledi. Başlangıçta biraz gerideydi ama hızla öne fırladı. Son düzlüğe geldiğinde, rüzgar gibi hızlandı. Bileklerini esnekçe kullanarak ivme kazandı ve rakiplerini geride bıraktı. Sona doğru, herkesin gözü ondaydı. Tribünlerden alkışlar yükseldi."," geçen hafta yarışta etkileyici bir performans sergiledi. Güven veren bir başlangıcın ardından güçlü bir şekilde öne atıldı. Son virajda adımlarını hızlandırırken yelesi rüzgârla beraber savruluyordu. Kuvvetli bacaklarıyla son düzlükte ileriye fırladı. Nal sesleriyle birlikte tribünler de coştu."," geçen hafta yapılan yarışta etkileyici bir mücadele sergiledi. İlk turda biraz temkinli ilerledi ama hızını kaybetmedi. Orta bölümde adımlarını güçlendirdi ve öndeki rakipleri yakalamaya başladı. Son düzlükte gücünü kullanarak öne fırladı ve bitiş çizgisine doğru ilerledi. Tribünler heyecanla ayakta bağırdılar."," geçen haftaki yarışta izleyenleri büyüledi. Yarışın başında dengeli bir tempo tutturarak dikkat çekti. Virajlarda çevik hareketleriyle rakiplerini geride bıraktı. Son düzlüğe geldiğinde hızını katladı ve güçlü bir final yaptı. Seyirciler coşkuyla tezahürat yaptı, ve gözlerini yarıştan alamadılar.","C:\Users\B128-C\Pictures\project linda\PinkHorse.png","C:\Users\B128-C\Pictures\project linda\PurpleHorse.png","C:\Users\B128-C\Pictures\project linda\RedHorse.png","NA","C:\Users\B128-C\Pictures\project linda\RoganJosh.png","Sessiz Adım","Sessiz Rota","Sis Adımı","Sis Tırısı","Solgun Yaprak"," geçen hafta yarışta ortalama bir performans sergiledi. Yarışa sakin bir başlangıç yaptı ve temposunu korudu. Ne çok geride kaldı ne de öne geçti. Genel olarak istikrarlı bir koşu sergiledi. Seyirciler dikkatle izledi. ","Taş Nehir","Ters Akım","C:\Users\B128-C\Pictures\project linda\TumbleweedHorse.png","Tunçkanat","C:\Users\B128-C\Pictures\project linda\TurquoiseHorse.png","Uzak Melodi","Yalnız Rota","Yankı Vadisi","Yeleveren","C:\Users\B128-C\Pictures\project linda\YellowHorse.png","1","#D1D1D1","psycho"," cinsinden ","psycho","psycho","no","NA","no","no","no","yes","no","no","no","no","Bu yarış için tahmininizi yaptınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan karşınıza çıkacak ekrana Mavi Gölge in cinsinden başka bir atla ilgili okuduğunuz hikayeden iki detay yazınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan karşınıza çıkacak ekranda Mavi Gölge in cinsinden atlarla ilgili gördüğünüz ipuçlarından son gördüğünüz ipucunun yerini işaretleyiniz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","0","2","0","0","NA","0","3","0","2","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","0","0","2","NA","1","0","Thu Nov 20 15:21:37 2025","The main experiment item","False","project linda exp2 C.osexp","C:\Users\B128-C\Desktop\Özgür","False","mono","False","18","no","white","no","my_image","yes","1080","9","0","1","0","3","1","1","NA","NA","NA","NA","4","Merhaba deneyimize hoş geldiniz! 
+
+ Bu deneyde bilişsel karar alma süreçleri incelenmektedir. 
+
+ Birazdan sizden bir at yarışı bahis oyununa katılmanız istenecektir. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Yarışlara bahis oynamadan önce tahminlerinizde size yardımcı olabilecek bazı bilgiler sunulacaktır. 
+
+ Bu bilgileri istediğiniz gibi tahminlerinize kullanmak sizin elinizdedir. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Deneye katılanlar arasında en iyi performans gösteren %10luk dilime girmeniz halinde 0.5 kredi ekstra kazanacaksınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Katılacağınız bahis gününde toplam 8 yarış olacaktır. 
+
+ Her bir yarışta 10 adet at yarışmaktadır. 
+
+ Her bir yarış için tek bir at için bahis oynama opsiyonunuz bulunmaktadır. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan karşınıza çıkacak tabloyu dikkatlice inceleyiniz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","3","psycho","C:/Users/B128-C/Desktop/Özgür/Özgür - Horse Racing - Exp 2 - Data/subject-647.csv","psycho","5","Melodramatic Milgram","4.0.24","virajlarda cevikti seyirciler gozunu ayiramadan izledi","no","yes","no","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","2","psycho","1024","2","48000","-16","experiment","647","odd","Yanda deney boyunca bahis oynayacağınız yarışlar ve o yarışlarda sıralamasını tahmin etmenizi istediğimiz atların listesi verilmiştir. 
+
+ Birazdan bu yarışlar için sırayla karşınıza bilgiler ve bahis seçenekleri çıkacaktır. 
+
+ Bu isimleri ezberlemek zorunda değilsiniz. 
+
+ Deney yapısını daha iyi anlayabilmeniz verilmiştir.","Yarış No.","At İsmi","At Resmi","İlk beşte bitirir","Son beşte bitirir","Deneyin asıl kısmı başlıyor. 
+
+ Anlamadığınız bir durum varsa bu noktada deneye yürütücümüze sorunuz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Yarış","5","3639.6038997918367","745499.8125992715","3639.485999941826","NA","NA","3639.708299189806","794216.335799545","377083.1261985004","678190.3884001076","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","162823.56929965317","122833.10419879854","678190.4438994825","NA","Yeni deney"," geçen haftaki yarışta izleyenleri büyüledi. Yarışın başında dengeli bir tempo tutturarak dikkat çekti. Virajlarda çevik hareketleriyle rakiplerini geride bıraktı. Son düzlüğe geldiğinde hızını katladı ve güçlü bir final yaptı. Seyirciler coşkuyla tezahürat yaptı, ve gözlerini yarıştan alamadılar.","C:\Users\B128-C\Pictures\project linda\PurpleHorse.png","11","Göksay","Mavi Gölge","Gece Yankısı","3.Yarış","[5, 8, 7, 5, 6, 4, 6, 7, 8, 5]","Bu yarış için Mavi Gölge adlı atın yarışta ilk 5’te mi son 5’te mi yer alacağına karar vermeniz istenecektir. Mavi Gölge, Göksay cinsi bir attır. Birazdan Göksay atları ile ilgili ipuçları verilecektir. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan Mavi Gölge’in cinsinden başka bir atla ilgili bir hikaye okuyacaksınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Göksay cinsinden Gece Yankısı geçen haftaki yarışta izleyenleri büyüledi. Yarışın başında dengeli bir tempo tutturarak dikkat çekti. Virajlarda çevik hareketleriyle rakiplerini geride bıraktı. Son düzlüğe geldiğinde hızını katladı ve güçlü bir final yaptı. Seyirciler coşkuyla tezahürat yaptı, ve gözlerini yarıştan alamadılar.
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Bir sonraki ekranda Mavi Gölge’in cinsinden başka atların önceki yarışlardaki sonuçlarını göreceksiniz. 
+
+ Göreceğiniz ilk üç sonuç bütün katılımcılara otomatik olarak gösterilmektedir. Bu sonuçlardan sonra diğer sonuçları ipucu olarak alıp almamak sizin elinizdedir. 
+
+ Deneyin sonunda sadece eşitlik halinde daha az ipucu kullanan kişi önde sayılacaktır. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan Mavi Gölge’in cinsinden başka atların önceki yarışlardaki sonuçlarını göreceksiniz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","1920","0"
+"Alaztoynak","Ayna Yol","C:\Users\B128-C\Pictures\project linda\BlackHorse.png","C:\Users\B128-C\Pictures\project linda\BlueHorse.png","Bozdalga","Çıraşyel","Derin Sis","Gece Çizgisi","Gece Kıvılcımı","Gece Yankısı","Göksay","C:\Users\B128-C\Pictures\project linda\GreenHorse.png","Gümüşçimen","NA","Kırık Saat","Kızıldoruk","Kum Çizgisi","Kumtepe","Mavi Gölge"," geçen haftaki yarışta kötü bir performans sergiledi. Yarışın başında hemen geride kaldı. Her adımda, sanki çamura batıyormuş gibi ağırlaşıyordu. Son düzlüğe geldiğinde, bütün hızını kaybetmişti. Tribünlerden homurtularla birlikte yarışı tamamladı."," geçen hafta kötü bir performans sergiledi. Yarışın başında beklenenden yavaş hareket etti, hız kazanamadı. Pistte ilerlerken adımları dengesizleşti, ivme kaybetti. En sona doğru bacakları tükenmiş gibiydi. Seyircilerin hayal kırıklığı yüzlerinden okunuyordu."," geçen haftaki yarışta dikkat çekici değildi. Başlangıçta adımları ağır ve temkinliydi. Orta bölümde ritmi düştü, hareketleri güçten düştüğünü gösteriyordu. Son düzlükteki adımları öncekiler kadar canlı değildi. Seyirciler sessizce izliyor, bazıları endişeli ifadelerle başlarını sallıyordu."," geçen hafta yarışta zayıf bir performans gösterdi. İlk turdan itibaren temposu düşük kaldı. Virajlarda dengesi kayboldu ve hızını toparlayamadı. Son düzlüğe geldiğinde, yorgunluğu her adımından hissediliyordu. Tribünler homurtularla karışık bir sessizlik içinde onu izledi."," geçen hafta yarışta müthiş bir performans sergiledi. Başlangıçta biraz gerideydi ama hızla öne fırladı. Son düzlüğe geldiğinde, rüzgar gibi hızlandı. Bileklerini esnekçe kullanarak ivme kazandı ve rakiplerini geride bıraktı. Sona doğru, herkesin gözü ondaydı. Tribünlerden alkışlar yükseldi."," geçen hafta yarışta etkileyici bir performans sergiledi. Güven veren bir başlangıcın ardından güçlü bir şekilde öne atıldı. Son virajda adımlarını hızlandırırken yelesi rüzgârla beraber savruluyordu. Kuvvetli bacaklarıyla son düzlükte ileriye fırladı. Nal sesleriyle birlikte tribünler de coştu."," geçen hafta yapılan yarışta etkileyici bir mücadele sergiledi. İlk turda biraz temkinli ilerledi ama hızını kaybetmedi. Orta bölümde adımlarını güçlendirdi ve öndeki rakipleri yakalamaya başladı. Son düzlükte gücünü kullanarak öne fırladı ve bitiş çizgisine doğru ilerledi. Tribünler heyecanla ayakta bağırdılar."," geçen haftaki yarışta izleyenleri büyüledi. Yarışın başında dengeli bir tempo tutturarak dikkat çekti. Virajlarda çevik hareketleriyle rakiplerini geride bıraktı. Son düzlüğe geldiğinde hızını katladı ve güçlü bir final yaptı. Seyirciler coşkuyla tezahürat yaptı, ve gözlerini yarıştan alamadılar.","C:\Users\B128-C\Pictures\project linda\PinkHorse.png","C:\Users\B128-C\Pictures\project linda\PurpleHorse.png","C:\Users\B128-C\Pictures\project linda\RedHorse.png","NA","C:\Users\B128-C\Pictures\project linda\RoganJosh.png","Sessiz Adım","Sessiz Rota","Sis Adımı","Sis Tırısı","Solgun Yaprak"," geçen hafta yarışta ortalama bir performans sergiledi. Yarışa sakin bir başlangıç yaptı ve temposunu korudu. Ne çok geride kaldı ne de öne geçti. Genel olarak istikrarlı bir koşu sergiledi. Seyirciler dikkatle izledi. ","Taş Nehir","Ters Akım","C:\Users\B128-C\Pictures\project linda\TumbleweedHorse.png","Tunçkanat","C:\Users\B128-C\Pictures\project linda\TurquoiseHorse.png","Uzak Melodi","Yalnız Rota","Yankı Vadisi","Yeleveren","C:\Users\B128-C\Pictures\project linda\YellowHorse.png","0","#D1D1D1","psycho"," cinsinden ","psycho","psycho","no","NA","no","yes","no","no","no","no","no","no","Bu yarış için tahmininizi yaptınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan karşınıza çıkacak ekrana Sessiz Rota in cinsinden başka bir atla ilgili okuduğunuz hikayeden iki detay yazınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan karşınıza çıkacak ekranda Sessiz Rota in cinsinden atlarla ilgili gördüğünüz ipuçlarından son gördüğünüz ipucunun yerini işaretleyiniz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","0","3","0","0","NA","0","4","0","3","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","0","0","3","NA","0","1","Thu Nov 20 15:21:37 2025","The main experiment item","False","project linda exp2 C.osexp","C:\Users\B128-C\Desktop\Özgür","False","mono","False","18","no","white","no","my_image","yes","1080","9","1","1","0","3","1","2","NA","NA","NA","NA","5","Merhaba deneyimize hoş geldiniz! 
+
+ Bu deneyde bilişsel karar alma süreçleri incelenmektedir. 
+
+ Birazdan sizden bir at yarışı bahis oyununa katılmanız istenecektir. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Yarışlara bahis oynamadan önce tahminlerinizde size yardımcı olabilecek bazı bilgiler sunulacaktır. 
+
+ Bu bilgileri istediğiniz gibi tahminlerinize kullanmak sizin elinizdedir. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Deneye katılanlar arasında en iyi performans gösteren %10luk dilime girmeniz halinde 0.5 kredi ekstra kazanacaksınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Katılacağınız bahis gününde toplam 8 yarış olacaktır. 
+
+ Her bir yarışta 10 adet at yarışmaktadır. 
+
+ Her bir yarış için tek bir at için bahis oynama opsiyonunuz bulunmaktadır. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan karşınıza çıkacak tabloyu dikkatlice inceleyiniz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","4","psycho","C:/Users/B128-C/Desktop/Özgür/Özgür - Horse Racing - Exp 2 - Data/subject-647.csv","psycho","8","Melodramatic Milgram","4.0.24","temposu dusuk ve yorgun","no","yes","no","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","2","psycho","1024","2","48000","-16","experiment","647","odd","Yanda deney boyunca bahis oynayacağınız yarışlar ve o yarışlarda sıralamasını tahmin etmenizi istediğimiz atların listesi verilmiştir. 
+
+ Birazdan bu yarışlar için sırayla karşınıza bilgiler ve bahis seçenekleri çıkacaktır. 
+
+ Bu isimleri ezberlemek zorunda değilsiniz. 
+
+ Deney yapısını daha iyi anlayabilmeniz verilmiştir.","Yarış No.","At İsmi","At Resmi","İlk beşte bitirir","Son beşte bitirir","Deneyin asıl kısmı başlıyor. 
+
+ Anlamadığınız bir durum varsa bu noktada deneye yürütücümüze sorunuz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Yarış","7","3639.6038997918367","877400.5804993212","3639.485999941826","NA","NA","3639.708299189806","902128.1918995082","377083.1261985004","794222.822798416","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","162823.56929965317","122833.10419879854","794222.8816989809","NA","Yeni deney"," geçen hafta yarışta zayıf bir performans gösterdi. İlk turdan itibaren temposu düşük kaldı. Virajlarda dengesi kayboldu ve hızını toparlayamadı. Son düzlüğe geldiğinde, yorgunluğu her adımından hissediliyordu. Tribünler homurtularla karışık bir sessizlik içinde onu izledi.","C:\Users\B128-C\Pictures\project linda\PinkHorse.png","11","Kızıldoruk","Sessiz Rota","Solgun Yaprak","4.Yarış","[6, 1, 4, 6, 4, 1, 3, 8, 4, 4]","Bu yarış için Sessiz Rota adlı atın yarışta ilk 5’te mi son 5’te mi yer alacağına karar vermeniz istenecektir. Sessiz Rota, Kızıldoruk cinsi bir attır. Birazdan Kızıldoruk atları ile ilgili ipuçları verilecektir. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan Sessiz Rota’in cinsinden başka bir atla ilgili bir hikaye okuyacaksınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Kızıldoruk cinsinden Solgun Yaprak geçen hafta yarışta zayıf bir performans gösterdi. İlk turdan itibaren temposu düşük kaldı. Virajlarda dengesi kayboldu ve hızını toparlayamadı. Son düzlüğe geldiğinde, yorgunluğu her adımından hissediliyordu. Tribünler homurtularla karışık bir sessizlik içinde onu izledi.
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Bir sonraki ekranda Sessiz Rota’in cinsinden başka atların önceki yarışlardaki sonuçlarını göreceksiniz. 
+
+ Göreceğiniz ilk üç sonuç bütün katılımcılara otomatik olarak gösterilmektedir. Bu sonuçlardan sonra diğer sonuçları ipucu olarak alıp almamak sizin elinizdedir. 
+
+ Deneyin sonunda sadece eşitlik halinde daha az ipucu kullanan kişi önde sayılacaktır. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan Sessiz Rota’in cinsinden başka atların önceki yarışlardaki sonuçlarını göreceksiniz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","1920","0"
+"Alaztoynak","Ayna Yol","C:\Users\B128-C\Pictures\project linda\BlackHorse.png","C:\Users\B128-C\Pictures\project linda\BlueHorse.png","Bozdalga","Çıraşyel","Derin Sis","Gece Çizgisi","Gece Kıvılcımı","Gece Yankısı","Göksay","C:\Users\B128-C\Pictures\project linda\GreenHorse.png","Gümüşçimen","NA","Kırık Saat","Kızıldoruk","Kum Çizgisi","Kumtepe","Mavi Gölge"," geçen haftaki yarışta kötü bir performans sergiledi. Yarışın başında hemen geride kaldı. Her adımda, sanki çamura batıyormuş gibi ağırlaşıyordu. Son düzlüğe geldiğinde, bütün hızını kaybetmişti. Tribünlerden homurtularla birlikte yarışı tamamladı."," geçen hafta kötü bir performans sergiledi. Yarışın başında beklenenden yavaş hareket etti, hız kazanamadı. Pistte ilerlerken adımları dengesizleşti, ivme kaybetti. En sona doğru bacakları tükenmiş gibiydi. Seyircilerin hayal kırıklığı yüzlerinden okunuyordu."," geçen haftaki yarışta dikkat çekici değildi. Başlangıçta adımları ağır ve temkinliydi. Orta bölümde ritmi düştü, hareketleri güçten düştüğünü gösteriyordu. Son düzlükteki adımları öncekiler kadar canlı değildi. Seyirciler sessizce izliyor, bazıları endişeli ifadelerle başlarını sallıyordu."," geçen hafta yarışta zayıf bir performans gösterdi. İlk turdan itibaren temposu düşük kaldı. Virajlarda dengesi kayboldu ve hızını toparlayamadı. Son düzlüğe geldiğinde, yorgunluğu her adımından hissediliyordu. Tribünler homurtularla karışık bir sessizlik içinde onu izledi."," geçen hafta yarışta müthiş bir performans sergiledi. Başlangıçta biraz gerideydi ama hızla öne fırladı. Son düzlüğe geldiğinde, rüzgar gibi hızlandı. Bileklerini esnekçe kullanarak ivme kazandı ve rakiplerini geride bıraktı. Sona doğru, herkesin gözü ondaydı. Tribünlerden alkışlar yükseldi."," geçen hafta yarışta etkileyici bir performans sergiledi. Güven veren bir başlangıcın ardından güçlü bir şekilde öne atıldı. Son virajda adımlarını hızlandırırken yelesi rüzgârla beraber savruluyordu. Kuvvetli bacaklarıyla son düzlükte ileriye fırladı. Nal sesleriyle birlikte tribünler de coştu."," geçen hafta yapılan yarışta etkileyici bir mücadele sergiledi. İlk turda biraz temkinli ilerledi ama hızını kaybetmedi. Orta bölümde adımlarını güçlendirdi ve öndeki rakipleri yakalamaya başladı. Son düzlükte gücünü kullanarak öne fırladı ve bitiş çizgisine doğru ilerledi. Tribünler heyecanla ayakta bağırdılar."," geçen haftaki yarışta izleyenleri büyüledi. Yarışın başında dengeli bir tempo tutturarak dikkat çekti. Virajlarda çevik hareketleriyle rakiplerini geride bıraktı. Son düzlüğe geldiğinde hızını katladı ve güçlü bir final yaptı. Seyirciler coşkuyla tezahürat yaptı, ve gözlerini yarıştan alamadılar.","C:\Users\B128-C\Pictures\project linda\PinkHorse.png","C:\Users\B128-C\Pictures\project linda\PurpleHorse.png","C:\Users\B128-C\Pictures\project linda\RedHorse.png","NA","C:\Users\B128-C\Pictures\project linda\RoganJosh.png","Sessiz Adım","Sessiz Rota","Sis Adımı","Sis Tırısı","Solgun Yaprak"," geçen hafta yarışta ortalama bir performans sergiledi. Yarışa sakin bir başlangıç yaptı ve temposunu korudu. Ne çok geride kaldı ne de öne geçti. Genel olarak istikrarlı bir koşu sergiledi. Seyirciler dikkatle izledi. ","Taş Nehir","Ters Akım","C:\Users\B128-C\Pictures\project linda\TumbleweedHorse.png","Tunçkanat","C:\Users\B128-C\Pictures\project linda\TurquoiseHorse.png","Uzak Melodi","Yalnız Rota","Yankı Vadisi","Yeleveren","C:\Users\B128-C\Pictures\project linda\YellowHorse.png","0","#D1D1D1","psycho"," cinsinden ","psycho","psycho","no","NA","no","no","yes","no","no","no","no","no","Bu yarış için tahmininizi yaptınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan karşınıza çıkacak ekrana Yankı Vadisi in cinsinden başka bir atla ilgili okuduğunuz hikayeden iki detay yazınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan karşınıza çıkacak ekranda Yankı Vadisi in cinsinden atlarla ilgili gördüğünüz ipuçlarından son gördüğünüz ipucunun yerini işaretleyiniz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","0","4","0","0","NA","0","5","0","4","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","0","0","4","NA","0","0","Thu Nov 20 15:21:37 2025","The main experiment item","False","project linda exp2 C.osexp","C:\Users\B128-C\Desktop\Özgür","False","mono","False","18","no","white","no","my_image","yes","1080","9","2","1","1","3","1","2","NA","NA","NA","NA","6","Merhaba deneyimize hoş geldiniz! 
+
+ Bu deneyde bilişsel karar alma süreçleri incelenmektedir. 
+
+ Birazdan sizden bir at yarışı bahis oyununa katılmanız istenecektir. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Yarışlara bahis oynamadan önce tahminlerinizde size yardımcı olabilecek bazı bilgiler sunulacaktır. 
+
+ Bu bilgileri istediğiniz gibi tahminlerinize kullanmak sizin elinizdedir. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Deneye katılanlar arasında en iyi performans gösteren %10luk dilime girmeniz halinde 0.5 kredi ekstra kazanacaksınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Katılacağınız bahis gününde toplam 8 yarış olacaktır. 
+
+ Her bir yarışta 10 adet at yarışmaktadır. 
+
+ Her bir yarış için tek bir at için bahis oynama opsiyonunuz bulunmaktadır. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan karşınıza çıkacak tabloyu dikkatlice inceleyiniz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","5","psycho","C:/Users/B128-C/Desktop/Özgür/Özgür - Horse Racing - Exp 2 - Data/subject-647.csv","psycho","3","Melodramatic Milgram","4.0.24","yarisa agir basladi ve seyirciler endiseli bakiyordu","no","yes","no","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","2","psycho","1024","2","48000","-16","experiment","647","odd","Yanda deney boyunca bahis oynayacağınız yarışlar ve o yarışlarda sıralamasını tahmin etmenizi istediğimiz atların listesi verilmiştir. 
+
+ Birazdan bu yarışlar için sırayla karşınıza bilgiler ve bahis seçenekleri çıkacaktır. 
+
+ Bu isimleri ezberlemek zorunda değilsiniz. 
+
+ Deney yapısını daha iyi anlayabilmeniz verilmiştir.","Yarış No.","At İsmi","At Resmi","İlk beşte bitirir","Son beşte bitirir","Deneyin asıl kısmı başlıyor. 
+
+ Anlamadığınız bir durum varsa bu noktada deneye yürütücümüze sorunuz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Yarış","6","3639.6038997918367","973837.2664991766","3639.485999941826","NA","NA","3639.708299189806","1010360.098099336","377083.1261985004","902134.2728994787","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","162823.56929965317","122833.10419879854","902134.3150995672","NA","Yeni deney"," geçen haftaki yarışta dikkat çekici değildi. Başlangıçta adımları ağır ve temkinliydi. Orta bölümde ritmi düştü, hareketleri güçten düştüğünü gösteriyordu. Son düzlükteki adımları öncekiler kadar canlı değildi. Seyirciler sessizce izliyor, bazıları endişeli ifadelerle başlarını sallıyordu.","C:\Users\B128-C\Pictures\project linda\TurquoiseHorse.png","11","Çıraşyel","Yankı Vadisi","Derin Sis","5.Yarış","[5, 9, 7, 8, 4, 6, 6, 9, 5, 9]","Bu yarış için Yankı Vadisi adlı atın yarışta ilk 5’te mi son 5’te mi yer alacağına karar vermeniz istenecektir. Yankı Vadisi, Çıraşyel cinsi bir attır. Birazdan Çıraşyel atları ile ilgili ipuçları verilecektir. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan Yankı Vadisi’in cinsinden başka bir atla ilgili bir hikaye okuyacaksınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Çıraşyel cinsinden Derin Sis geçen haftaki yarışta dikkat çekici değildi. Başlangıçta adımları ağır ve temkinliydi. Orta bölümde ritmi düştü, hareketleri güçten düştüğünü gösteriyordu. Son düzlükteki adımları öncekiler kadar canlı değildi. Seyirciler sessizce izliyor, bazıları endişeli ifadelerle başlarını sallıyordu.
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Bir sonraki ekranda Yankı Vadisi’in cinsinden başka atların önceki yarışlardaki sonuçlarını göreceksiniz. 
+
+ Göreceğiniz ilk üç sonuç bütün katılımcılara otomatik olarak gösterilmektedir. Bu sonuçlardan sonra diğer sonuçları ipucu olarak alıp almamak sizin elinizdedir. 
+
+ Deneyin sonunda sadece eşitlik halinde daha az ipucu kullanan kişi önde sayılacaktır. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan Yankı Vadisi’in cinsinden başka atların önceki yarışlardaki sonuçlarını göreceksiniz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","1920","0"
+"Alaztoynak","Ayna Yol","C:\Users\B128-C\Pictures\project linda\BlackHorse.png","C:\Users\B128-C\Pictures\project linda\BlueHorse.png","Bozdalga","Çıraşyel","Derin Sis","Gece Çizgisi","Gece Kıvılcımı","Gece Yankısı","Göksay","C:\Users\B128-C\Pictures\project linda\GreenHorse.png","Gümüşçimen","NA","Kırık Saat","Kızıldoruk","Kum Çizgisi","Kumtepe","Mavi Gölge"," geçen haftaki yarışta kötü bir performans sergiledi. Yarışın başında hemen geride kaldı. Her adımda, sanki çamura batıyormuş gibi ağırlaşıyordu. Son düzlüğe geldiğinde, bütün hızını kaybetmişti. Tribünlerden homurtularla birlikte yarışı tamamladı."," geçen hafta kötü bir performans sergiledi. Yarışın başında beklenenden yavaş hareket etti, hız kazanamadı. Pistte ilerlerken adımları dengesizleşti, ivme kaybetti. En sona doğru bacakları tükenmiş gibiydi. Seyircilerin hayal kırıklığı yüzlerinden okunuyordu."," geçen haftaki yarışta dikkat çekici değildi. Başlangıçta adımları ağır ve temkinliydi. Orta bölümde ritmi düştü, hareketleri güçten düştüğünü gösteriyordu. Son düzlükteki adımları öncekiler kadar canlı değildi. Seyirciler sessizce izliyor, bazıları endişeli ifadelerle başlarını sallıyordu."," geçen hafta yarışta zayıf bir performans gösterdi. İlk turdan itibaren temposu düşük kaldı. Virajlarda dengesi kayboldu ve hızını toparlayamadı. Son düzlüğe geldiğinde, yorgunluğu her adımından hissediliyordu. Tribünler homurtularla karışık bir sessizlik içinde onu izledi."," geçen hafta yarışta müthiş bir performans sergiledi. Başlangıçta biraz gerideydi ama hızla öne fırladı. Son düzlüğe geldiğinde, rüzgar gibi hızlandı. Bileklerini esnekçe kullanarak ivme kazandı ve rakiplerini geride bıraktı. Sona doğru, herkesin gözü ondaydı. Tribünlerden alkışlar yükseldi."," geçen hafta yarışta etkileyici bir performans sergiledi. Güven veren bir başlangıcın ardından güçlü bir şekilde öne atıldı. Son virajda adımlarını hızlandırırken yelesi rüzgârla beraber savruluyordu. Kuvvetli bacaklarıyla son düzlükte ileriye fırladı. Nal sesleriyle birlikte tribünler de coştu."," geçen hafta yapılan yarışta etkileyici bir mücadele sergiledi. İlk turda biraz temkinli ilerledi ama hızını kaybetmedi. Orta bölümde adımlarını güçlendirdi ve öndeki rakipleri yakalamaya başladı. Son düzlükte gücünü kullanarak öne fırladı ve bitiş çizgisine doğru ilerledi. Tribünler heyecanla ayakta bağırdılar."," geçen haftaki yarışta izleyenleri büyüledi. Yarışın başında dengeli bir tempo tutturarak dikkat çekti. Virajlarda çevik hareketleriyle rakiplerini geride bıraktı. Son düzlüğe geldiğinde hızını katladı ve güçlü bir final yaptı. Seyirciler coşkuyla tezahürat yaptı, ve gözlerini yarıştan alamadılar.","C:\Users\B128-C\Pictures\project linda\PinkHorse.png","C:\Users\B128-C\Pictures\project linda\PurpleHorse.png","C:\Users\B128-C\Pictures\project linda\RedHorse.png","NA","C:\Users\B128-C\Pictures\project linda\RoganJosh.png","Sessiz Adım","Sessiz Rota","Sis Adımı","Sis Tırısı","Solgun Yaprak"," geçen hafta yarışta ortalama bir performans sergiledi. Yarışa sakin bir başlangıç yaptı ve temposunu korudu. Ne çok geride kaldı ne de öne geçti. Genel olarak istikrarlı bir koşu sergiledi. Seyirciler dikkatle izledi. ","Taş Nehir","Ters Akım","C:\Users\B128-C\Pictures\project linda\TumbleweedHorse.png","Tunçkanat","C:\Users\B128-C\Pictures\project linda\TurquoiseHorse.png","Uzak Melodi","Yalnız Rota","Yankı Vadisi","Yeleveren","C:\Users\B128-C\Pictures\project linda\YellowHorse.png","0","#D1D1D1","psycho"," cinsinden ","psycho","psycho","no","NA","no","no","no","no","yes","no","no","no","Bu yarış için tahmininizi yaptınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan karşınıza çıkacak ekrana Gece Çizgisi in cinsinden başka bir atla ilgili okuduğunuz hikayeden iki detay yazınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan karşınıza çıkacak ekranda Gece Çizgisi in cinsinden atlarla ilgili gördüğünüz ipuçlarından son gördüğünüz ipucunun yerini işaretleyiniz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","0","5","0","0","NA","0","6","0","5","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","0","0","5","NA","1","1","Thu Nov 20 15:21:37 2025","The main experiment item","False","project linda exp2 C.osexp","C:\Users\B128-C\Desktop\Özgür","False","mono","False","18","no","white","no","my_image","yes","1080","9","3","1","1","3","2","2","NA","NA","NA","NA","7","Merhaba deneyimize hoş geldiniz! 
+
+ Bu deneyde bilişsel karar alma süreçleri incelenmektedir. 
+
+ Birazdan sizden bir at yarışı bahis oyununa katılmanız istenecektir. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Yarışlara bahis oynamadan önce tahminlerinizde size yardımcı olabilecek bazı bilgiler sunulacaktır. 
+
+ Bu bilgileri istediğiniz gibi tahminlerinize kullanmak sizin elinizdedir. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Deneye katılanlar arasında en iyi performans gösteren %10luk dilime girmeniz halinde 0.5 kredi ekstra kazanacaksınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Katılacağınız bahis gününde toplam 8 yarış olacaktır. 
+
+ Her bir yarışta 10 adet at yarışmaktadır. 
+
+ Her bir yarış için tek bir at için bahis oynama opsiyonunuz bulunmaktadır. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan karşınıza çıkacak tabloyu dikkatlice inceleyiniz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","6","psycho","C:/Users/B128-C/Desktop/Özgür/Özgür - Horse Racing - Exp 2 - Data/subject-647.csv","psycho","5","Melodramatic Milgram","4.0.24","camura batar gibiydi seyirciler homurdaniyordu","yes","no","no","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","2","psycho","1024","2","48000","-16","experiment","647","odd","Yanda deney boyunca bahis oynayacağınız yarışlar ve o yarışlarda sıralamasını tahmin etmenizi istediğimiz atların listesi verilmiştir. 
+
+ Birazdan bu yarışlar için sırayla karşınıza bilgiler ve bahis seçenekleri çıkacaktır. 
+
+ Bu isimleri ezberlemek zorunda değilsiniz. 
+
+ Deney yapısını daha iyi anlayabilmeniz verilmiştir.","Yarış No.","At İsmi","At Resmi","İlk beşte bitirir","Son beşte bitirir","Deneyin asıl kısmı başlıyor. 
+
+ Anlamadığınız bir durum varsa bu noktada deneye yürütücümüze sorunuz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Yarış","2","3639.6038997918367","1067372.96509929","3639.485999941826","NA","NA","3639.708299189806","1110136.040698737","377083.1261985004","1010366.2110995501","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","162823.56929965317","122833.10419879854","1010366.253098473","NA","Yeni deney"," geçen haftaki yarışta kötü bir performans sergiledi. Yarışın başında hemen geride kaldı. Her adımda, sanki çamura batıyormuş gibi ağırlaşıyordu. Son düzlüğe geldiğinde, bütün hızını kaybetmişti. Tribünlerden homurtularla birlikte yarışı tamamladı.","C:\Users\B128-C\Pictures\project linda\RoganJosh.png","11","Yeleveren","Gece Çizgisi","Sessiz Adım","6.Yarış","[6, 2, 5, 5, 3, 6, 3, 5, 6, 3]","Bu yarış için Gece Çizgisi adlı atın yarışta ilk 5’te mi son 5’te mi yer alacağına karar vermeniz istenecektir. Gece Çizgisi, Yeleveren cinsi bir attır. Birazdan Yeleveren atları ile ilgili ipuçları verilecektir. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan Gece Çizgisi’in cinsinden başka bir atla ilgili bir hikaye okuyacaksınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Yeleveren cinsinden Sessiz Adım geçen haftaki yarışta kötü bir performans sergiledi. Yarışın başında hemen geride kaldı. Her adımda, sanki çamura batıyormuş gibi ağırlaşıyordu. Son düzlüğe geldiğinde, bütün hızını kaybetmişti. Tribünlerden homurtularla birlikte yarışı tamamladı.
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Bir sonraki ekranda Gece Çizgisi’in cinsinden başka atların önceki yarışlardaki sonuçlarını göreceksiniz. 
+
+ Göreceğiniz ilk üç sonuç bütün katılımcılara otomatik olarak gösterilmektedir. Bu sonuçlardan sonra diğer sonuçları ipucu olarak alıp almamak sizin elinizdedir. 
+
+ Deneyin sonunda sadece eşitlik halinde daha az ipucu kullanan kişi önde sayılacaktır. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan Gece Çizgisi’in cinsinden başka atların önceki yarışlardaki sonuçlarını göreceksiniz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","1920","0"
+"Alaztoynak","Ayna Yol","C:\Users\B128-C\Pictures\project linda\BlackHorse.png","C:\Users\B128-C\Pictures\project linda\BlueHorse.png","Bozdalga","Çıraşyel","Derin Sis","Gece Çizgisi","Gece Kıvılcımı","Gece Yankısı","Göksay","C:\Users\B128-C\Pictures\project linda\GreenHorse.png","Gümüşçimen","NA","Kırık Saat","Kızıldoruk","Kum Çizgisi","Kumtepe","Mavi Gölge"," geçen haftaki yarışta kötü bir performans sergiledi. Yarışın başında hemen geride kaldı. Her adımda, sanki çamura batıyormuş gibi ağırlaşıyordu. Son düzlüğe geldiğinde, bütün hızını kaybetmişti. Tribünlerden homurtularla birlikte yarışı tamamladı."," geçen hafta kötü bir performans sergiledi. Yarışın başında beklenenden yavaş hareket etti, hız kazanamadı. Pistte ilerlerken adımları dengesizleşti, ivme kaybetti. En sona doğru bacakları tükenmiş gibiydi. Seyircilerin hayal kırıklığı yüzlerinden okunuyordu."," geçen haftaki yarışta dikkat çekici değildi. Başlangıçta adımları ağır ve temkinliydi. Orta bölümde ritmi düştü, hareketleri güçten düştüğünü gösteriyordu. Son düzlükteki adımları öncekiler kadar canlı değildi. Seyirciler sessizce izliyor, bazıları endişeli ifadelerle başlarını sallıyordu."," geçen hafta yarışta zayıf bir performans gösterdi. İlk turdan itibaren temposu düşük kaldı. Virajlarda dengesi kayboldu ve hızını toparlayamadı. Son düzlüğe geldiğinde, yorgunluğu her adımından hissediliyordu. Tribünler homurtularla karışık bir sessizlik içinde onu izledi."," geçen hafta yarışta müthiş bir performans sergiledi. Başlangıçta biraz gerideydi ama hızla öne fırladı. Son düzlüğe geldiğinde, rüzgar gibi hızlandı. Bileklerini esnekçe kullanarak ivme kazandı ve rakiplerini geride bıraktı. Sona doğru, herkesin gözü ondaydı. Tribünlerden alkışlar yükseldi."," geçen hafta yarışta etkileyici bir performans sergiledi. Güven veren bir başlangıcın ardından güçlü bir şekilde öne atıldı. Son virajda adımlarını hızlandırırken yelesi rüzgârla beraber savruluyordu. Kuvvetli bacaklarıyla son düzlükte ileriye fırladı. Nal sesleriyle birlikte tribünler de coştu."," geçen hafta yapılan yarışta etkileyici bir mücadele sergiledi. İlk turda biraz temkinli ilerledi ama hızını kaybetmedi. Orta bölümde adımlarını güçlendirdi ve öndeki rakipleri yakalamaya başladı. Son düzlükte gücünü kullanarak öne fırladı ve bitiş çizgisine doğru ilerledi. Tribünler heyecanla ayakta bağırdılar."," geçen haftaki yarışta izleyenleri büyüledi. Yarışın başında dengeli bir tempo tutturarak dikkat çekti. Virajlarda çevik hareketleriyle rakiplerini geride bıraktı. Son düzlüğe geldiğinde hızını katladı ve güçlü bir final yaptı. Seyirciler coşkuyla tezahürat yaptı, ve gözlerini yarıştan alamadılar.","C:\Users\B128-C\Pictures\project linda\PinkHorse.png","C:\Users\B128-C\Pictures\project linda\PurpleHorse.png","C:\Users\B128-C\Pictures\project linda\RedHorse.png","NA","C:\Users\B128-C\Pictures\project linda\RoganJosh.png","Sessiz Adım","Sessiz Rota","Sis Adımı","Sis Tırısı","Solgun Yaprak"," geçen hafta yarışta ortalama bir performans sergiledi. Yarışa sakin bir başlangıç yaptı ve temposunu korudu. Ne çok geride kaldı ne de öne geçti. Genel olarak istikrarlı bir koşu sergiledi. Seyirciler dikkatle izledi. ","Taş Nehir","Ters Akım","C:\Users\B128-C\Pictures\project linda\TumbleweedHorse.png","Tunçkanat","C:\Users\B128-C\Pictures\project linda\TurquoiseHorse.png","Uzak Melodi","Yalnız Rota","Yankı Vadisi","Yeleveren","C:\Users\B128-C\Pictures\project linda\YellowHorse.png","0","#D1D1D1","psycho"," cinsinden ","psycho","psycho","no","NA","no","no","no","yes","no","no","no","no","Bu yarış için tahmininizi yaptınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan karşınıza çıkacak ekrana Gece Kıvılcımı in cinsinden başka bir atla ilgili okuduğunuz hikayeden iki detay yazınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan karşınıza çıkacak ekranda Gece Kıvılcımı in cinsinden atlarla ilgili gördüğünüz ipuçlarından son gördüğünüz ipucunun yerini işaretleyiniz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","0","6","0","0","NA","0","7","0","6","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","0","0","6","NA","1","0","Thu Nov 20 15:21:37 2025","The main experiment item","False","project linda exp2 C.osexp","C:\Users\B128-C\Desktop\Özgür","False","mono","False","18","no","white","no","my_image","yes","1080","9","4","2","1","3","2","2","NA","NA","NA","NA","8","Merhaba deneyimize hoş geldiniz! 
+
+ Bu deneyde bilişsel karar alma süreçleri incelenmektedir. 
+
+ Birazdan sizden bir at yarışı bahis oyununa katılmanız istenecektir. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Yarışlara bahis oynamadan önce tahminlerinizde size yardımcı olabilecek bazı bilgiler sunulacaktır. 
+
+ Bu bilgileri istediğiniz gibi tahminlerinize kullanmak sizin elinizdedir. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Deneye katılanlar arasında en iyi performans gösteren %10luk dilime girmeniz halinde 0.5 kredi ekstra kazanacaksınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Katılacağınız bahis gününde toplam 8 yarış olacaktır. 
+
+ Her bir yarışta 10 adet at yarışmaktadır. 
+
+ Her bir yarış için tek bir at için bahis oynama opsiyonunuz bulunmaktadır. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan karşınıza çıkacak tabloyu dikkatlice inceleyiniz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","7","psycho","C:/Users/B128-C/Desktop/Özgür/Özgür - Horse Racing - Exp 2 - Data/subject-647.csv","psycho","3","Melodramatic Milgram","4.0.24","ivme kaybetti yarisin sonunda bacaklari cok yorulmustu","no","yes","no","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","2","psycho","1024","2","48000","-16","experiment","647","odd","Yanda deney boyunca bahis oynayacağınız yarışlar ve o yarışlarda sıralamasını tahmin etmenizi istediğimiz atların listesi verilmiştir. 
+
+ Birazdan bu yarışlar için sırayla karşınıza bilgiler ve bahis seçenekleri çıkacaktır. 
+
+ Bu isimleri ezberlemek zorunda değilsiniz. 
+
+ Deney yapısını daha iyi anlayabilmeniz verilmiştir.","Yarış No.","At İsmi","At Resmi","İlk beşte bitirir","Son beşte bitirir","Deneyin asıl kısmı başlıyor. 
+
+ Anlamadığınız bir durum varsa bu noktada deneye yürütücümüze sorunuz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Yarış","5","3639.6038997918367","1161025.56299977","3639.485999941826","NA","NA","3639.708299189806","1187319.8524992913","377083.1261985004","1110145.824899897","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","162823.56929965317","122833.10419879854","1110145.9201984107","NA","Yeni deney"," geçen hafta kötü bir performans sergiledi. Yarışın başında beklenenden yavaş hareket etti, hız kazanamadı. Pistte ilerlerken adımları dengesizleşti, ivme kaybetti. En sona doğru bacakları tükenmiş gibiydi. Seyircilerin hayal kırıklığı yüzlerinden okunuyordu.","C:\Users\B128-C\Pictures\project linda\BlueHorse.png","11","Tunçkanat","Gece Kıvılcımı","Uzak Melodi","7.Yarış","[5, 8, 6, 7, 4, 6, 6, 5, 7, 6]","Bu yarış için Gece Kıvılcımı adlı atın yarışta ilk 5’te mi son 5’te mi yer alacağına karar vermeniz istenecektir. Gece Kıvılcımı, Tunçkanat cinsi bir attır. Birazdan Tunçkanat atları ile ilgili ipuçları verilecektir. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan Gece Kıvılcımı’in cinsinden başka bir atla ilgili bir hikaye okuyacaksınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Tunçkanat cinsinden Uzak Melodi geçen hafta kötü bir performans sergiledi. Yarışın başında beklenenden yavaş hareket etti, hız kazanamadı. Pistte ilerlerken adımları dengesizleşti, ivme kaybetti. En sona doğru bacakları tükenmiş gibiydi. Seyircilerin hayal kırıklığı yüzlerinden okunuyordu.
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Bir sonraki ekranda Gece Kıvılcımı’in cinsinden başka atların önceki yarışlardaki sonuçlarını göreceksiniz. 
+
+ Göreceğiniz ilk üç sonuç bütün katılımcılara otomatik olarak gösterilmektedir. Bu sonuçlardan sonra diğer sonuçları ipucu olarak alıp almamak sizin elinizdedir. 
+
+ Deneyin sonunda sadece eşitlik halinde daha az ipucu kullanan kişi önde sayılacaktır. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan Gece Kıvılcımı’in cinsinden başka atların önceki yarışlardaki sonuçlarını göreceksiniz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","1920","0"
+"Alaztoynak","Ayna Yol","C:\Users\B128-C\Pictures\project linda\BlackHorse.png","C:\Users\B128-C\Pictures\project linda\BlueHorse.png","Bozdalga","Çıraşyel","Derin Sis","Gece Çizgisi","Gece Kıvılcımı","Gece Yankısı","Göksay","C:\Users\B128-C\Pictures\project linda\GreenHorse.png","Gümüşçimen","NA","Kırık Saat","Kızıldoruk","Kum Çizgisi","Kumtepe","Mavi Gölge"," geçen haftaki yarışta kötü bir performans sergiledi. Yarışın başında hemen geride kaldı. Her adımda, sanki çamura batıyormuş gibi ağırlaşıyordu. Son düzlüğe geldiğinde, bütün hızını kaybetmişti. Tribünlerden homurtularla birlikte yarışı tamamladı."," geçen hafta kötü bir performans sergiledi. Yarışın başında beklenenden yavaş hareket etti, hız kazanamadı. Pistte ilerlerken adımları dengesizleşti, ivme kaybetti. En sona doğru bacakları tükenmiş gibiydi. Seyircilerin hayal kırıklığı yüzlerinden okunuyordu."," geçen haftaki yarışta dikkat çekici değildi. Başlangıçta adımları ağır ve temkinliydi. Orta bölümde ritmi düştü, hareketleri güçten düştüğünü gösteriyordu. Son düzlükteki adımları öncekiler kadar canlı değildi. Seyirciler sessizce izliyor, bazıları endişeli ifadelerle başlarını sallıyordu."," geçen hafta yarışta zayıf bir performans gösterdi. İlk turdan itibaren temposu düşük kaldı. Virajlarda dengesi kayboldu ve hızını toparlayamadı. Son düzlüğe geldiğinde, yorgunluğu her adımından hissediliyordu. Tribünler homurtularla karışık bir sessizlik içinde onu izledi."," geçen hafta yarışta müthiş bir performans sergiledi. Başlangıçta biraz gerideydi ama hızla öne fırladı. Son düzlüğe geldiğinde, rüzgar gibi hızlandı. Bileklerini esnekçe kullanarak ivme kazandı ve rakiplerini geride bıraktı. Sona doğru, herkesin gözü ondaydı. Tribünlerden alkışlar yükseldi."," geçen hafta yarışta etkileyici bir performans sergiledi. Güven veren bir başlangıcın ardından güçlü bir şekilde öne atıldı. Son virajda adımlarını hızlandırırken yelesi rüzgârla beraber savruluyordu. Kuvvetli bacaklarıyla son düzlükte ileriye fırladı. Nal sesleriyle birlikte tribünler de coştu."," geçen hafta yapılan yarışta etkileyici bir mücadele sergiledi. İlk turda biraz temkinli ilerledi ama hızını kaybetmedi. Orta bölümde adımlarını güçlendirdi ve öndeki rakipleri yakalamaya başladı. Son düzlükte gücünü kullanarak öne fırladı ve bitiş çizgisine doğru ilerledi. Tribünler heyecanla ayakta bağırdılar."," geçen haftaki yarışta izleyenleri büyüledi. Yarışın başında dengeli bir tempo tutturarak dikkat çekti. Virajlarda çevik hareketleriyle rakiplerini geride bıraktı. Son düzlüğe geldiğinde hızını katladı ve güçlü bir final yaptı. Seyirciler coşkuyla tezahürat yaptı, ve gözlerini yarıştan alamadılar.","C:\Users\B128-C\Pictures\project linda\PinkHorse.png","C:\Users\B128-C\Pictures\project linda\PurpleHorse.png","C:\Users\B128-C\Pictures\project linda\RedHorse.png","NA","C:\Users\B128-C\Pictures\project linda\RoganJosh.png","Sessiz Adım","Sessiz Rota","Sis Adımı","Sis Tırısı","Solgun Yaprak"," geçen hafta yarışta ortalama bir performans sergiledi. Yarışa sakin bir başlangıç yaptı ve temposunu korudu. Ne çok geride kaldı ne de öne geçti. Genel olarak istikrarlı bir koşu sergiledi. Seyirciler dikkatle izledi. ","Taş Nehir","Ters Akım","C:\Users\B128-C\Pictures\project linda\TumbleweedHorse.png","Tunçkanat","C:\Users\B128-C\Pictures\project linda\TurquoiseHorse.png","Uzak Melodi","Yalnız Rota","Yankı Vadisi","Yeleveren","C:\Users\B128-C\Pictures\project linda\YellowHorse.png","1","#D1D1D1","psycho"," cinsinden ","psycho","psycho","no","NA","no","no","yes","no","no","no","no","no","Bu yarış için tahmininizi yaptınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan karşınıza çıkacak ekrana Ayna Yol in cinsinden başka bir atla ilgili okuduğunuz hikayeden iki detay yazınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan karşınıza çıkacak ekranda Ayna Yol in cinsinden atlarla ilgili gördüğünüz ipuçlarından son gördüğünüz ipucunun yerini işaretleyiniz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","0","7","0","0","NA","0","8","0","7","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","0","0","7","NA","0","0","Thu Nov 20 15:21:37 2025","The main experiment item","False","project linda exp2 C.osexp","C:\Users\B128-C\Desktop\Özgür","False","mono","False","18","no","white","no","my_image","yes","1080","9","4","2","2","4","2","2","NA","NA","NA","NA","9","Merhaba deneyimize hoş geldiniz! 
+
+ Bu deneyde bilişsel karar alma süreçleri incelenmektedir. 
+
+ Birazdan sizden bir at yarışı bahis oyununa katılmanız istenecektir. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Yarışlara bahis oynamadan önce tahminlerinizde size yardımcı olabilecek bazı bilgiler sunulacaktır. 
+
+ Bu bilgileri istediğiniz gibi tahminlerinize kullanmak sizin elinizdedir. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Deneye katılanlar arasında en iyi performans gösteren %10luk dilime girmeniz halinde 0.5 kredi ekstra kazanacaksınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Katılacağınız bahis gününde toplam 8 yarış olacaktır. 
+
+ Her bir yarışta 10 adet at yarışmaktadır. 
+
+ Her bir yarış için tek bir at için bahis oynama opsiyonunuz bulunmaktadır. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan karşınıza çıkacak tabloyu dikkatlice inceleyiniz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","8","psycho","C:/Users/B128-C/Desktop/Özgür/Özgür - Horse Racing - Exp 2 - Data/subject-647.csv","psycho","5","Melodramatic Milgram","4.0.24","guven veren baslangic son anda guzel firlama","no","yes","no","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","2","psycho","1024","2","48000","-16","experiment","647","odd","Yanda deney boyunca bahis oynayacağınız yarışlar ve o yarışlarda sıralamasını tahmin etmenizi istediğimiz atların listesi verilmiştir. 
+
+ Birazdan bu yarışlar için sırayla karşınıza bilgiler ve bahis seçenekleri çıkacaktır. 
+
+ Bu isimleri ezberlemek zorunda değilsiniz. 
+
+ Deney yapısını daha iyi anlayabilmeniz verilmiştir.","Yarış No.","At İsmi","At Resmi","İlk beşte bitirir","Son beşte bitirir","Deneyin asıl kısmı başlıyor. 
+
+ Anlamadığınız bir durum varsa bu noktada deneye yürütücümüze sorunuz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Yarış","6","3639.6038997918367","1255940.5087996274","3639.485999941826","NA","NA","3639.708299189806","1280695.6514995545","377083.1261985004","1187325.7842995226","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","162823.56929965317","122833.10419879854","1187325.8257992566","NA","Yeni deney"," geçen hafta yarışta etkileyici bir performans sergiledi. Güven veren bir başlangıcın ardından güçlü bir şekilde öne atıldı. Son virajda adımlarını hızlandırırken yelesi rüzgârla beraber savruluyordu. Kuvvetli bacaklarıyla son düzlükte ileriye fırladı. Nal sesleriyle birlikte tribünler de coştu.","C:\Users\B128-C\Pictures\project linda\YellowHorse.png","11","Kumtepe","Ayna Yol","Sis Tırısı","8.Yarış","[5, 9, 6, 8, 7, 8, 3, 10, 5, 9]","Bu yarış için Ayna Yol adlı atın yarışta ilk 5’te mi son 5’te mi yer alacağına karar vermeniz istenecektir. Ayna Yol, Kumtepe cinsi bir attır. Birazdan Kumtepe atları ile ilgili ipuçları verilecektir. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan Ayna Yol’in cinsinden başka bir atla ilgili bir hikaye okuyacaksınız. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Kumtepe cinsinden Sis Tırısı geçen hafta yarışta etkileyici bir performans sergiledi. Güven veren bir başlangıcın ardından güçlü bir şekilde öne atıldı. Son virajda adımlarını hızlandırırken yelesi rüzgârla beraber savruluyordu. Kuvvetli bacaklarıyla son düzlükte ileriye fırladı. Nal sesleriyle birlikte tribünler de coştu.
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Bir sonraki ekranda Ayna Yol’in cinsinden başka atların önceki yarışlardaki sonuçlarını göreceksiniz. 
+
+ Göreceğiniz ilk üç sonuç bütün katılımcılara otomatik olarak gösterilmektedir. Bu sonuçlardan sonra diğer sonuçları ipucu olarak alıp almamak sizin elinizdedir. 
+
+ Deneyin sonunda sadece eşitlik halinde daha az ipucu kullanan kişi önde sayılacaktır. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","Birazdan Ayna Yol’in cinsinden başka atların önceki yarışlardaki sonuçlarını göreceksiniz. 
+
+ 
+
+ Devam etmek için SPACE tuşuna basın.","1920","0"
